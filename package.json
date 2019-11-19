@@ -1,11 +1,33 @@
 {
   "name": "social-login-oauth",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "lib/index.js",
   "types": "lib",
   "scripts": {
     "build": "tsc -p ."
+  },
+  "keywords": [
+    "angular",
+    "javascript",
+    "script",
+    "social",
+    "social-login",
+    "social-login-oauth",
+    "social-oauth",
+    "social-oauth2",
+    "oauth",
+    "google",
+    "facebook",
+    "authendication",
+    "social-signin",
+    "typescript",
+    "vue",
+    "react"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dxmari/social-login-oauth.git"
   },
   "author": "Mariselvam",
   "license": "MIT"
