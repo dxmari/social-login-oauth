@@ -1,0 +1,12 @@
+{
+  "name": "social-login-oauth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "types": "lib",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "author": "Mariselvam",
+  "license": "MIT"
+}
