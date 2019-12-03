@@ -93,7 +93,7 @@ const fbLoginOptions: LoginOpt = {
   enable_profile_selector: true
 }; // https://developers.facebook.com/docs/reference/javascript/FB.login/v2.11
 
-FacebookService.signIn(facebookID,googleLoginOptions)
+FacebookService.signIn(facebookID,fbLoginOptions)
 ```
 
 ## License
